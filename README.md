@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+I am BCA undergraduate from GIET University, Gunupur.
+
+I love learning new technologies and contributing to open source. Recently enjoying problem solving too!
+I am currently learning something cool.
+Currently learning PHP, DSA and javascript
