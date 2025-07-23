@@ -1,21 +1,12 @@
 ### Hi there 👋
 
-<!--
-**rgabhinav/rgabhinav** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm **Abhinav** — CTO at Devinilabs, passionate about building impactful technology.
 
-Here are some ideas to get you started:
+- ⚡ **AI Engineer** & **Vibe Coder** with hands-on expertise in **Python**, **Go**, **JavaScript**, and **TypeScript**
+- 🚀 Leading projects that blend innovation, creativity, and real-world problem solving
+- 🛠️ Skilled in troubleshooting browser compatibility and CDN issues[1]
+- 🌱 Always learning, exploring the latest in tech and AI
+- 🤝 Open to collaboration and keen to connect with like-minded developers
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-I am BCA undergraduate from GIET University, Gunupur.
+Let's push boundaries together — feel free to reach out!
 
-I love learning new technologies and contributing to open source. Recently enjoying problem solving too!
-I am currently learning something cool.
-Currently learning PHP, DSA and javascript
